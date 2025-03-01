@@ -40,4 +40,4 @@ DIVAR_URL = "https://divar.ir/s/your-custom-search-url"
 python divar_bot.py
 
 
-Made By GPT-AI
+# Made By GPT-AI
